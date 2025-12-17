@@ -22,8 +22,7 @@ Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise,
 
   <div style="display: inline_block">
   <img width="50" height="50" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img width="50" height="50" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
+  <img width="50" height="50" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>        
   <img width="50" height="50" align="center" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
   <img width="50" height="50" align="center" alt="Cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
 </div>
