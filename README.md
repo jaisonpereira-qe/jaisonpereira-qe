@@ -10,6 +10,11 @@ Bem-vindo ao perfil do @jaisonpereira-qe! 🚀
 
 Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise, Projeto e Gerência de Sistema, apaixonado por tecnologia, estou sempre por dentro de assuntos relacionados a TI, procurado sempre por coisas novas para estar preparado para qualquer situação na empresa.
 
+## 🚀 Tech Stack:
+
+- 📋 Linguagens
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 ## 🔍 Áreas de Interesses
 
 Nosso foco está em construir uma comunidade especializada em:
