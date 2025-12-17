@@ -21,7 +21,7 @@ Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise,
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
   <div style="display: inline_block">
-  <img width="50" height="50" align="center" alt="K6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"/>
+  <img width="50" height="50" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img width="50" height="50" align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
   <img width="50" height="50" align="center" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
   <img width="50" height="50" align="center" alt="Cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
