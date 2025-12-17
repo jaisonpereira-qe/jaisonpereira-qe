@@ -19,24 +19,25 @@ Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise,
    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+<!--
   <div style="display: inline_block">
   <img width="50" height="50" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img width="50" height="50" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>        
   <img width="50" height="50" align="center" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   </div>
-
+-->
  - 🧪 Testing
 
    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
    ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
+   ![REST Assured](rest-assured-logo-green.png)
+<!--
      <div style="display: inline_block">
         <img width="50" height="50" align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
         <img width="50" height="50" align="center" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
         <img width="50" height="50" align="center" alt="Cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
     </div>
-   
+   -->
   - 🕓 Version Control
     
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -60,6 +61,7 @@ Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise,
    ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+<!--
 ## 🔍 Áreas de Interesses
 
 Nosso foco está em construir uma comunidade especializada em:
@@ -67,7 +69,7 @@ Nosso foco está em construir uma comunidade especializada em:
 - **Testes Manuais:** Garantir a qualidade do software através da análise detalhada e testes manuais.
 - **Testes Automáticos:** Criação de scripts de testes para automatizar processos e aumentar a eficiência.
 - **Testes de Performance:** Realização de testes para validar a escalabilidade e estabilidade das aplicações.
-
+-->
 <!--
 **jaisonpereira-qe/jaisonpereira-qe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
