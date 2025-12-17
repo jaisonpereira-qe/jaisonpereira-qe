@@ -1,5 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+sou+%40jaisonpereira-qe)](https://git.io/typing-svg)
 
+Bem-vindo ao perfil do @horadoqa! 🚀
+
+Somos entusiastas de Garantia de Qualidade (QA) e Testes de Software, e nossa missão é compartilhar conhecimento, ferramentas e boas práticas para aprimorar a qualidade do software.
+
 <!--
 **jaisonpereira-qe/jaisonpereira-qe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
