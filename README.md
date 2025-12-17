@@ -10,6 +10,14 @@ Bem-vindo ao perfil do @jaisonpereira-qe! 🚀
 
 Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise, Projeto e Gerência de Sistema, apaixonado por tecnologia, estou sempre por dentro de assuntos relacionados a TI, procurado sempre por coisas novas para estar preparado para qualquer situação na empresa.
 
+## 🔍 Áreas de Interesses
+
+Nosso foco está em construir uma comunidade especializada em:
+
+- **Testes Manuais:** Garantir a qualidade do software através da análise detalhada e testes manuais.
+- **Testes Automáticos:** Criação de scripts de testes para automatizar processos e aumentar a eficiência.
+- **Testes de Performance:** Realização de testes para validar a escalabilidade e estabilidade das aplicações.
+
 <!--
 **jaisonpereira-qe/jaisonpereira-qe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
