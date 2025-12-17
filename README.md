@@ -61,6 +61,16 @@ Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise,
    ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+ ## 📊 Estatísticas do GitHub
+
+Aqui estão algumas estatísticas do GitHub:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaisonpereira-qe&show_icons=true&theme=radical" height="290" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaisonpereira-qe&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaisonpereira-qe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
+</div>
+
 <!--
 ## 🔍 Áreas de Interesses
 
