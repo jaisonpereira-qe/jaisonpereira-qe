@@ -2,6 +2,12 @@
 
 Bem-vindo ao perfil do @jaisonpereira-qe! 🚀
 
+- 💻 **QE / Manual / Automatizados**
+- 🏡 **Fortaleza, Ceará, Brasil , CE**
+- 🌎 **Encontre-me na internet.**
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaison-de-sousa-67b7863b/)
+- 📫 **franciscojaison.pereira@gmail.com**
+
 Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise, Projeto e Gerência de Sistema, apaixonado por tecnologia, estou sempre por dentro de assuntos relacionados a TI, procurado sempre por coisas novas para estar preparado para qualquer situação na empresa.
 
 <!--
