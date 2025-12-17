@@ -24,13 +24,18 @@ Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise,
   <img width="50" height="50" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img width="50" height="50" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>        
   <img width="50" height="50" align="center" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img width="50" height="50" align="center" alt="Cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
-</div>
+  </div>
 
  - 🧪 Testing
 
    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
    ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+     <div style="display: inline_block">
+        <img width="50" height="50" align="center" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
+        <img width="50" height="50" align="center" alt="Cypress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
+        <img width="50" height="50" align="center" alt="Cucumber" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
+    </div>
    
   - 🕓 Version Control
     
