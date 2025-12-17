@@ -24,7 +24,7 @@ Formado em Analise e Desenvolvimento de Sistemas e Especialização em Análise,
 
    ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
    ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-   ![rest assured](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+   ![rest assured](https://img.shields.io/badge/-rest assured-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
    
 
  - 🥅 Other
